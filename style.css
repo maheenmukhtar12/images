@@ -1,0 +1,25 @@
+.one{
+                          filter: drop-shadow(1px 1px 9px rgb(27,24,235)); 
+                         position: relative;
+                         top: 180px;
+                       
+
+}
+.two{
+                         filter: drop-shadow(1px 1px 9px rgb(24, 235, 94));
+                         position: relative;
+                         left: 500px;
+                         bottom: 80px;
+}
+.three{
+                         filter: drop-shadow(1px 1px 9px rgb(186, 24, 235));
+                         position: relative;
+                         left: 900px;
+                         bottom: 320px;
+}
+.four{
+                         filter: drop-shadow(1px 1px 9px rgb(235, 24, 91));
+                         position: relative;
+                         left: 1300px;
+                         bottom: 550px;
+}
